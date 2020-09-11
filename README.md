@@ -11,7 +11,7 @@ Although, the library is intended to be as dependency-free as possible, the foll
   [here](#cmakeliststxt) for more info)
 - [Open MPI](https://www.open-mpi.org/) for distributed memory parallelization
 
-In addition the following libraries are used but they ship alongside JADA-library
+In addition the following libraries are used but they ship alongside the library
 
 - [Catch](https://github.com/catchorg/Catch2) unit testing framework (see 
   [here](#mytestscpp))
